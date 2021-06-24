@@ -13,5 +13,14 @@
     "express": "^4.17.1",
     "nodemon": "^2.0.7",
     "pug": "^3.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arghya721/IOT-WITH-HEROKU.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Arghya721/IOT-WITH-HEROKU/issues"
+  },
+  "homepage": "https://github.com/Arghya721/IOT-WITH-HEROKU#readme"
 }
