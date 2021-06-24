@@ -31,7 +31,7 @@ function onFunc(){
 function offFunc(){
 
     http.put(
-        'http://localhost:5000/1',
+        'https://iotlightcontrol.herokuapp.com/1',
            off, function(err, post){
           if(err) {
             console.log(err);
